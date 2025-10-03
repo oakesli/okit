@@ -1,0 +1,4 @@
+/home/dev/Projects/okit/build/CMakeFiles/extensions.dir
+/home/dev/Projects/okit/build/CMakeFiles/tofa.dir
+/home/dev/Projects/okit/build/CMakeFiles/edit_cache.dir
+/home/dev/Projects/okit/build/CMakeFiles/rebuild_cache.dir

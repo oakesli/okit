@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tofa.dir/src/tofa.cpp.o -o /home/dev/Projects/okit/release/bin/tofa 
