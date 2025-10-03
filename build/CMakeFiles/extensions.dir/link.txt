@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/extensions.dir/src/extensions.cpp.o -o /home/dev/Projects/okit/release/bin/extensions 
