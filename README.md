@@ -12,3 +12,4 @@ Full documentation is available on the [Wiki](https://github.com/oakesli/okit/wi
 
 * `extensions`: Get all file extensions in the current folder and all its subfolders.
 * `tofa`: Convert plain text sequence files to FASTA format.
+* `category`: Classify files based on their parent folder names.
